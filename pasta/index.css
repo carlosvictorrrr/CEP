@@ -1,0 +1,41 @@
+.corpo {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #001b4d;
+    color: #ffffff;
+}
+
+.box {
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+    background-color: #205dce96;
+    padding: 15px;
+    border-radius: 3px;
+    border: 0px;
+}
+
+.botao{
+    background-color: #ffffff;
+    transition: background-color 0.0s ease;
+    border-radius: 3px;
+    border: none;
+    margin-top: 10px;
+}
+
+.botao:hover{
+    background-color: #7da7f5;
+}
+
+.big {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.inserir{
+    border-radius: 3px;
+    border: none;
+}
+
+::placeholder{
+    color: rgb(158, 158, 158)
+}
